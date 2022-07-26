@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Challout🐱‍💻</h1>
 <h3 align="center">A passionate developer from Spain👨🏻‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyeca&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyeca" /> </p>
 
