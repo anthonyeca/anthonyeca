@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anthonyeca.github.io/](https://anthonyeca.github.io/)
 
-- 📫 How to reach me **anthonyeca.dev@gmail.com**
+- 📫 How to reach me [Contact me](mailto:anthonyeca.dev@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anthonyeca/](https://www.linkedin.com/in/anthonyeca/)
 
