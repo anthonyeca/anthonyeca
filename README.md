@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working migrating applications **for BNP PARIBAS**
 
-- 🌱 I’m currently learning **JavaScript and React | Ansible,AWS & Python**
+- 🌱 I’m currently learning **JavaScript & React | Ansible,AWS & Python**
 
 - 👨‍💻 All of my projects are available at [https://anthonyeca.github.io/](https://anthonyeca.github.io/)
 
