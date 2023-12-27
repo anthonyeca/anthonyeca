@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React | Ansible,AWS & Python**
 
-- 👨‍💻 All of my projects are available at [https://anthonyeca.github.io/](https://anthonyeca.github.io/)
+- 👨‍💻 All of my projects are available at [https://anthonyeca.dev/](https://anthonyeca.dev/)
 
 - 📫 How to reach me [Contact me](mailto:anthonyeca.dev@gmail.com)
 
