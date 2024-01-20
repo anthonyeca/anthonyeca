@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyeca&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyeca" /> </p>
 
-- 🔭 I’m currently working as Application Support & Migrating Applications **for BNP PARIBAS**
+- 🔭 I’m currently working as Application Support Technician & Migrating Applications **for BNP PARIBAS**
 
 - 🌱 I’m currently learning **JavaScript & React | Ansible,AWS & Python**
 
